@@ -1,0 +1,25 @@
+# Nicenic API Integration Samples
+
+This repository provides sample scripts and SDK examples for using the **Nicenic.NET API** across multiple programming languages.
+
+---
+
+### 🧩 Examples Included
+- **Python**: Domain registration & status check  
+- **PHP**: Reseller account API integration  
+- **Node.js**: Domain renewal automation  
+- **cURL**: Quick reference for testing endpoints  
+
+---
+
+### ⚙️ Getting Started
+1. Obtain your API credentials from your Nicenic account.  
+2. Set your API endpoint to  
+   ➤ [https://nicenic.net/reseller/apiv2.php](https://nicenic.net/reseller/apiv2.php)  
+3. Follow the README examples for your language of choice.  
+4. Test endpoints in sandbox mode before production use.
+
+---
+
+**Official site:** [https://www.nicenic.net](https://www.nicenic.net)  
+**Support:** [support@nicenic.net](mailto:support@nicenic.net)
